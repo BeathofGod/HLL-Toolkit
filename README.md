@@ -2,6 +2,8 @@
 
 This is HLL-Toolkit
 
+Update Logs:
+
 Version V3.7
 - Fixed SPA artillery calculation formulas
 
